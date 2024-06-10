@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="start_total_value">0</string>
+    <string name="square_root_symbol">\u221a</string>
+    <string name="ln_button_text">ln</string>
+    <string name="x_button_text">x</string>
+    <string name="y_button_text">y</string>
+    <string name="z_button_text">z</string>
+    <string name="c_button_text">C</string>
+    <string name="left_bracket_button_text">(</string>
+    <string name="right_bracket_button_text">)</string>
+    <string name="division_button_text">/</string>
+    <string name="multyply_button_text">*</string>
+    <string name="subtration_button_text">-</string>
+    <string name="sum_button_text">+</string>
+    <string name="equal_button_text">=</string>
+    <string name="comma_button_text">.</string>
+    <string name="button0_text">0</string>
+    <string name="button1_text">1</string>
+    <string name="button2_text">2</string>
+    <string name="button3_text">3</string>
+    <string name="button4_text">4</string>
+    <string name="button5_text">5</string>
+    <string name="button6_text">6</string>
+    <string name="button7_text">7</string>
+    <string name="button8_text">8</string>
+    <string name="button9_text">9</string>
+    <string name="error_in_expression">Wrong expression</string>
+    <string name="division_by_zero_error">Division by zero</string>
+</resources>
